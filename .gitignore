@@ -1,0 +1,15 @@
+# .NET build folders
+bin/
+obj/
+
+# Visual Studio / VS Code
+.vscode/
+*.user
+*.suo
+
+# NuGet
+*.nupkg
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
